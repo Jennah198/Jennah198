@@ -1,5 +1,5 @@
 # Hi 👋, I'm Nezira
-Aspiring Full-Stack Developer | Problem-Solver | Faith-Driven Innovator
+Full-Stack Developer | Problem-Solver | Faith-Driven Innovator
 
 ---
 
