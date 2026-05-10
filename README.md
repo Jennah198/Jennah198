@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋, I'm Nezira
+# Hello , I'm Nezira
 ### Full-Stack Developer · Problem-Solver · Faith-Driven Innovator
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jennah198&style=flat-square&color=0F6E56&label=Profile+Views)
@@ -48,7 +48,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -57,7 +57,7 @@
 | | What I'm doing |
 |--|--|
 | 🚀 | Deepening full-stack skills with **Next.js** and **ShadCN/UI** |
-| 🗂️ | Juggling multiple full-stack projects without dropping the ball |
+| 🗂️ | Managing multiple full-stack projects while maintaining high code quality |
 | ✍️ | Sharing my journey through **blogs, projects, and mentorship** |
 
 ---
@@ -76,18 +76,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Jennah198&show_icons=true&theme=radical&hide_border=true" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennah198&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jennah198/Jennah198/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jennah198/Jennah198/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jennah198/Jennah198/output/github-snake.svg" />
-  </picture>
 </p>
 
 ---
