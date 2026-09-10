@@ -14,7 +14,6 @@
 
 I'm a **Software Engineering student, full-stack developer, and emerging technical project manager** focused on building practical software and turning ideas into working products.
 
-* 🌍 Addis Ababa, Ethiopia
 * 💻 Full-stack development with **Next.js, React, Node.js, Python, and Odoo**
 * 🧠 Currently focused on **backend engineering, system architecture, AI integration, and data-driven systems**
 * 🗂️ Experience in **project coordination, team leadership, planning, and product execution**
