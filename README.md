@@ -10,42 +10,34 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-I'm a **Software Engineering student, full-stack developer, and emerging technical project manager** focused on turning ideas into practical software.
+I'm a **Software Engineering student, full-stack developer, and emerging technical project manager** focused on building practical software and turning ideas into working products.
 
-I enjoy working across the stack, from designing interfaces to building backend systems, connecting data, and coordinating teams to ship real products.
-
-* 🌍 Based in **Addis Ababa, Ethiopia**
-* 🎓 4th-year **Software Engineering student at ASTU**
-* 💻 Full-stack developer with experience across **Next.js, React, Node.js, Python, and Odoo**
-* 🧠 Currently deepening my skills in **backend engineering, system architecture, AI integration, and data-driven systems**
-* 🚀 Interested in **AI-powered products, developer tools, automation, and impactful software**
-* 🗂️ Experienced in **project coordination, team leadership, planning, and product execution**
+* 🌍 Addis Ababa, Ethiopia
+* 🎓 4th-year Software Engineering student at ASTU
+* 💻 Full-stack development with **Next.js, React, Node.js, Python, and Odoo**
+* 🧠 Currently focused on **backend engineering, system architecture, AI integration, and data-driven systems**
+* 🗂️ Experience in **project coordination, team leadership, planning, and product execution**
+* 🚀 Interested in **AI-powered products, developer tools, automation, and entrepreneurship**
 * ✍️ Documenting my journey through **Code and Thought**
-* 🤝 Open to building meaningful products and collaborating with ambitious people
 
 ---
 
-## 💻 What I Build
+## What I Build
 
-I care about software that solves an actual problem and can survive beyond the demo.
+I focus on software that addresses real problems and can move beyond the prototype stage.
 
-→ **Full-stack web applications** with modern JavaScript and TypeScript ecosystems
-
-→ **AI-powered applications** that integrate intelligent workflows into useful products
-
-→ **Business systems and automation** that improve real operational processes
-
-→ **Education, community, and social-impact platforms** designed around real user needs
-
-→ **Backend systems** with strong data models, business logic, APIs, and system constraints
-
-→ **Products from idea to execution**, combining engineering with project and product thinking
+* **Full-stack web applications**
+* **AI-powered applications and intelligent workflows**
+* **Business systems and process automation**
+* **Education, community, and social-impact platforms**
+* **Backend systems with strong data models and business logic**
+* **Digital products from idea to execution**
 
 ---
 
-## 🛠️ Technologies I Work With
+## Tech Stack
 
 ### Languages
 
@@ -59,70 +51,53 @@ I care about software that solves an actual problem and can survive beyond the d
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,vite" />
 </p>
 
-### Backend & APIs
+### Backend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi" />
 </p>
 
-### Databases & Backend Services
+### Databases & Services
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,firebase,sqlite" />
 </p>
 
-### Tools, DevOps & Platforms
+### Tools & Platforms
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,kubernetes,figma" />
 </p>
 
-### Currently Working With
+### Current Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,docker,postgres" />
-</p>
-
-**Odoo · ORM · Backend Architecture · API Security · Data Integrity**
+**Python · Odoo · PostgreSQL · Docker · ORM · Backend Architecture · API Security · Data Integrity**
 
 ---
 
-## 🚀 Current Focus
-
-<table>
-<tr>
-<td width="50%">
+## Current Focus
 
 ### Engineering
 
 * Deepening backend engineering
 * Building with Python and Odoo
-* Improving system architecture skills
+* Improving system architecture
 * Studying DSA and problem solving
-* Exploring AI integration
-
-</td>
-<td width="50%">
+* Exploring practical AI integration
 
 ### Product & Leadership
 
 * Managing software projects
-* Improving team workflows
+* Improving development workflows
 * Turning ideas into MVPs
-* Learning product thinking
-* Building technology with measurable impact
-
-</td>
-</tr>
-</table>
+* Strengthening product thinking
+* Building technology around measurable needs
 
 ---
 
-## 🧩 Projects & Experience
+## Projects & Experience
 
-### 🏗️ Software Engineering
-
-I've built and worked on projects involving:
+My work spans several problem domains, including:
 
 * Education management
 * Islamic and community platforms
@@ -130,43 +105,40 @@ I've built and worked on projects involving:
 * Complaint and issue tracking
 * Service marketplaces
 * AI-assisted applications
-* Dynamic portfolio and business websites
+* Business and portfolio websites
 
-### 👥 Project Leadership
+### Project Leadership
 
-I've coordinated multiple development teams across projects, handling:
+I've coordinated development teams through:
 
 * Project planning
 * Task distribution
 * Milestone tracking
 * Team communication
 * Progress reporting
-* Stakeholder communication
+* Stakeholder coordination
 * Evaluation and delivery
 
-My goal is to understand both sides of software: **how to build it and how to move it forward.**
+I aim to understand both **how software is built and how products move from idea to execution.**
 
 ---
 
-## 🌱 Beyond Code
+## Beyond Code
 
-I believe engineering is partly about technology and partly about how you think.
+Technology is only one part of building useful products. I also invest in:
 
-I'm interested in:
+* Continuous learning
+* Problem solving and human behavior
+* Communication and leadership
+* Entrepreneurship
+* Faith-driven growth
+* Writing and documenting ideas
 
-* 📖 Continuous learning
-* 🧠 Problem solving and human behavior
-* 🌍 Building for real-world needs
-* 🕌 Faith-driven growth
-* ✍️ Writing and documenting ideas
-* 🗣️ Communication and leadership
-* 🚀 Entrepreneurship and product building
-
-I document the process through **Code and Thought**, sharing what I learn about software engineering, discipline, leadership, and thinking.
+Through **Code and Thought**, I share what I learn about software engineering, discipline, leadership, and thinking.
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -186,647 +158,26 @@ I document the process through **Code and Thought**, sharing what I learn about 
 
 ---
 
-## 🔗 Let's Connect
+## Let's Connect
 
 <p align="left">
-  <a href="https://github.com/Jennah198">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/neziraworkuali">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
+<a href="https://github.com/Jennah198">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/neziraworkuali">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### Build. Learn. Ship. Repeat.
+### Build. Learn. Ship.
 
-**Building software that matters, one project at a time.**
-
-</div>
-<div align="center">
-
-# Hey, I'm Nezira
-
-### Software Engineer · Builder · Technical Project Manager · Faith-Driven Innovator
-
-<img src="https://komarev.com/ghpvc/?username=Jennah198&style=flat-square&color=0F6E56&label=Profile+Views" alt="Profile Views" />
-
-</div>
-
----
-
-## 👋 About Me
-
-I'm a **Software Engineering student, full-stack developer, and emerging technical project manager** focused on turning ideas into practical software.
-
-I enjoy working across the stack, from designing interfaces to building backend systems, connecting data, and coordinating teams to ship real products.
-
-* 🌍 Based in **Addis Ababa, Ethiopia**
-* 🎓 4th-year **Software Engineering student at ASTU**
-* 💻 Full-stack developer with experience across **Next.js, React, Node.js, Python, and Odoo**
-* 🧠 Currently deepening my skills in **backend engineering, system architecture, AI integration, and data-driven systems**
-* 🚀 Interested in **AI-powered products, developer tools, automation, and impactful software**
-* 🗂️ Experienced in **project coordination, team leadership, planning, and product execution**
-* ✍️ Documenting my journey through **Code and Thought**
-* 🤝 Open to building meaningful products and collaborating with ambitious people
-
----
-
-## 💻 What I Build
-
-I care about software that solves an actual problem and can survive beyond the demo.
-
-→ **Full-stack web applications** with modern JavaScript and TypeScript ecosystems
-
-→ **AI-powered applications** that integrate intelligent workflows into useful products
-
-→ **Business systems and automation** that improve real operational processes
-
-→ **Education, community, and social-impact platforms** designed around real user needs
-
-→ **Backend systems** with strong data models, business logic, APIs, and system constraints
-
-→ **Products from idea to execution**, combining engineering with project and product thinking
-
----
-
-## 🛠️ Technologies I Work With
-
-### Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,sql" />
-</p>
-
-### Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,vite" />
-</p>
-
-### Backend & APIs
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi" />
-</p>
-
-### Databases & Backend Services
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,firebase,sqlite" />
-</p>
-
-### Tools, DevOps & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,kubernetes,figma" />
-</p>
-
-### Currently Working With
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,docker,postgres" />
-</p>
-
-**Odoo · ORM · Backend Architecture · API Security · Data Integrity**
-
----
-
-## 🚀 Current Focus
-
-<table>
-<tr>
-<td width="50%">
-
-### Engineering
-
-* Deepening backend engineering
-* Building with Python and Odoo
-* Improving system architecture skills
-* Studying DSA and problem solving
-* Exploring AI integration
-
-</td>
-<td width="50%">
-
-### Product & Leadership
-
-* Managing software projects
-* Improving team workflows
-* Turning ideas into MVPs
-* Learning product thinking
-* Building technology with measurable impact
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧩 Projects & Experience
-
-### 🏗️ Software Engineering
-
-I've built and worked on projects involving:
-
-* Education management
-* Islamic and community platforms
-* Business management systems
-* Complaint and issue tracking
-* Service marketplaces
-* AI-assisted applications
-* Dynamic portfolio and business websites
-
-### 👥 Project Leadership
-
-I've coordinated multiple development teams across projects, handling:
-
-* Project planning
-* Task distribution
-* Milestone tracking
-* Team communication
-* Progress reporting
-* Stakeholder communication
-* Evaluation and delivery
-
-My goal is to understand both sides of software: **how to build it and how to move it forward.**
-
----
-
-## 🌱 Beyond Code
-
-I believe engineering is partly about technology and partly about how you think.
-
-I'm interested in:
-
-* 📖 Continuous learning
-* 🧠 Problem solving and human behavior
-* 🌍 Building for real-world needs
-* 🕌 Faith-driven growth
-* ✍️ Writing and documenting ideas
-* 🗣️ Communication and leadership
-* 🚀 Entrepreneurship and product building
-
-I document the process through **Code and Thought**, sharing what I learn about software engineering, discipline, leadership, and thinking.
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jennah198&theme=github_dark" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jennah198&theme=github-dark&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jennah198&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennah198&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
-## 🔗 Let's Connect
-
-<p align="left">
-  <a href="https://github.com/Jennah198">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/neziraworkuali">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-### Build. Learn. Ship. Repeat.
-
-**Building software that matters, one project at a time.**
-
-</div>
-<div align="center">
-
-# Hey, I'm Nezira
-
-### Software Engineer · Builder · Technical Project Manager · Faith-Driven Innovator
-
-<img src="https://komarev.com/ghpvc/?username=Jennah198&style=flat-square&color=0F6E56&label=Profile+Views" alt="Profile Views" />
-
-</div>
-
----
-
-## 👋 About Me
-
-I'm a **Software Engineering student, full-stack developer, and emerging technical project manager** focused on turning ideas into practical software.
-
-I enjoy working across the stack, from designing interfaces to building backend systems, connecting data, and coordinating teams to ship real products.
-
-* 🌍 Based in **Addis Ababa, Ethiopia**
-* 🎓 4th-year **Software Engineering student at ASTU**
-* 💻 Full-stack developer with experience across **Next.js, React, Node.js, Python, and Odoo**
-* 🧠 Currently deepening my skills in **backend engineering, system architecture, AI integration, and data-driven systems**
-* 🚀 Interested in **AI-powered products, developer tools, automation, and impactful software**
-* 🗂️ Experienced in **project coordination, team leadership, planning, and product execution**
-* ✍️ Documenting my journey through **Code and Thought**
-* 🤝 Open to building meaningful products and collaborating with ambitious people
-
----
-
-## 💻 What I Build
-
-I care about software that solves an actual problem and can survive beyond the demo.
-
-→ **Full-stack web applications** with modern JavaScript and TypeScript ecosystems
-
-→ **AI-powered applications** that integrate intelligent workflows into useful products
-
-→ **Business systems and automation** that improve real operational processes
-
-→ **Education, community, and social-impact platforms** designed around real user needs
-
-→ **Backend systems** with strong data models, business logic, APIs, and system constraints
-
-→ **Products from idea to execution**, combining engineering with project and product thinking
-
----
-
-## 🛠️ Technologies I Work With
-
-### Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,sql" />
-</p>
-
-### Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,vite" />
-</p>
-
-### Backend & APIs
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi" />
-</p>
-
-### Databases & Backend Services
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,firebase,sqlite" />
-</p>
-
-### Tools, DevOps & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,kubernetes,figma" />
-</p>
-
-### Currently Working With
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,docker,postgres" />
-</p>
-
-**Odoo · ORM · Backend Architecture · API Security · Data Integrity**
-
----
-
-## 🚀 Current Focus
-
-<table>
-<tr>
-<td width="50%">
-
-### Engineering
-
-* Deepening backend engineering
-* Building with Python and Odoo
-* Improving system architecture skills
-* Studying DSA and problem solving
-* Exploring AI integration
-
-</td>
-<td width="50%">
-
-### Product & Leadership
-
-* Managing software projects
-* Improving team workflows
-* Turning ideas into MVPs
-* Learning product thinking
-* Building technology with measurable impact
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧩 Projects & Experience
-
-### 🏗️ Software Engineering
-
-I've built and worked on projects involving:
-
-* Education management
-* Islamic and community platforms
-* Business management systems
-* Complaint and issue tracking
-* Service marketplaces
-* AI-assisted applications
-* Dynamic portfolio and business websites
-
-### 👥 Project Leadership
-
-I've coordinated multiple development teams across projects, handling:
-
-* Project planning
-* Task distribution
-* Milestone tracking
-* Team communication
-* Progress reporting
-* Stakeholder communication
-* Evaluation and delivery
-
-My goal is to understand both sides of software: **how to build it and how to move it forward.**
-
----
-
-## 🌱 Beyond Code
-
-I believe engineering is partly about technology and partly about how you think.
-
-I'm interested in:
-
-* 📖 Continuous learning
-* 🧠 Problem solving and human behavior
-* 🌍 Building for real-world needs
-* 🕌 Faith-driven growth
-* ✍️ Writing and documenting ideas
-* 🗣️ Communication and leadership
-* 🚀 Entrepreneurship and product building
-
-I document the process through **Code and Thought**, sharing what I learn about software engineering, discipline, leadership, and thinking.
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jennah198&theme=github_dark" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jennah198&theme=github-dark&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jennah198&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennah198&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
-## 🔗 Let's Connect
-
-<p align="left">
-  <a href="https://github.com/Jennah198">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/neziraworkuali">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-### Build. Learn. Ship. Repeat.
-
-**Building software that matters, one project at a time.**
-
-</div>
-<div align="center">
-
-# Hey, I'm Nezira
-
-### Software Engineer · Builder · Technical Project Manager · Faith-Driven Innovator
-
-<img src="https://komarev.com/ghpvc/?username=Jennah198&style=flat-square&color=0F6E56&label=Profile+Views" alt="Profile Views" />
-
-</div>
-
----
-
-## 👋 About Me
-
-I'm a **Software Engineering student, full-stack developer, and emerging technical project manager** focused on turning ideas into practical software.
-
-I enjoy working across the stack, from designing interfaces to building backend systems, connecting data, and coordinating teams to ship real products.
-
-* 🌍 Based in **Addis Ababa, Ethiopia**
-* 🎓 4th-year **Software Engineering student at ASTU**
-* 💻 Full-stack developer with experience across **Next.js, React, Node.js, Python, and Odoo**
-* 🧠 Currently deepening my skills in **backend engineering, system architecture, AI integration, and data-driven systems**
-* 🚀 Interested in **AI-powered products, developer tools, automation, and impactful software**
-* 🗂️ Experienced in **project coordination, team leadership, planning, and product execution**
-* ✍️ Documenting my journey through **Code and Thought**
-* 🤝 Open to building meaningful products and collaborating with ambitious people
-
----
-
-## 💻 What I Build
-
-I care about software that solves an actual problem and can survive beyond the demo.
-
-→ **Full-stack web applications** with modern JavaScript and TypeScript ecosystems
-
-→ **AI-powered applications** that integrate intelligent workflows into useful products
-
-→ **Business systems and automation** that improve real operational processes
-
-→ **Education, community, and social-impact platforms** designed around real user needs
-
-→ **Backend systems** with strong data models, business logic, APIs, and system constraints
-
-→ **Products from idea to execution**, combining engineering with project and product thinking
-
----
-
-## 🛠️ Technologies I Work With
-
-### Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,sql" />
-</p>
-
-### Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,vite" />
-</p>
-
-### Backend & APIs
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi" />
-</p>
-
-### Databases & Backend Services
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,firebase,sqlite" />
-</p>
-
-### Tools, DevOps & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,kubernetes,figma" />
-</p>
-
-### Currently Working With
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,docker,postgres" />
-</p>
-
-**Odoo · ORM · Backend Architecture · API Security · Data Integrity**
-
----
-
-## 🚀 Current Focus
-
-<table>
-<tr>
-<td width="50%">
-
-### Engineering
-
-* Deepening backend engineering
-* Building with Python and Odoo
-* Improving system architecture skills
-* Studying DSA and problem solving
-* Exploring AI integration
-
-</td>
-<td width="50%">
-
-### Product & Leadership
-
-* Managing software projects
-* Improving team workflows
-* Turning ideas into MVPs
-* Learning product thinking
-* Building technology with measurable impact
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧩 Projects & Experience
-
-### 🏗️ Software Engineering
-
-I've built and worked on projects involving:
-
-* Education management
-* Islamic and community platforms
-* Business management systems
-* Complaint and issue tracking
-* Service marketplaces
-* AI-assisted applications
-* Dynamic portfolio and business websites
-
-### 👥 Project Leadership
-
-I've coordinated multiple development teams across projects, handling:
-
-* Project planning
-* Task distribution
-* Milestone tracking
-* Team communication
-* Progress reporting
-* Stakeholder communication
-* Evaluation and delivery
-
-My goal is to understand both sides of software: **how to build it and how to move it forward.**
-
----
-
-## 🌱 Beyond Code
-
-I believe engineering is partly about technology and partly about how you think.
-
-I'm interested in:
-
-* 📖 Continuous learning
-* 🧠 Problem solving and human behavior
-* 🌍 Building for real-world needs
-* 🕌 Faith-driven growth
-* ✍️ Writing and documenting ideas
-* 🗣️ Communication and leadership
-* 🚀 Entrepreneurship and product building
-
-I document the process through **Code and Thought**, sharing what I learn about software engineering, discipline, leadership, and thinking.
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jennah198&theme=github_dark" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jennah198&theme=github-dark&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jennah198&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennah198&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
-## 🔗 Let's Connect
-
-<p align="left">
-  <a href="https://github.com/Jennah198">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/neziraworkuali">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-### Build. Learn. Ship. Repeat.
-
-**Building software that matters, one project at a time.**
+**Building software that matters.**
 
 </div>
